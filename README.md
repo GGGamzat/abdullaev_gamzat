@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://web.telegram.org/k/#@gamzat">
+  <a href="https://web.telegram.org/k/#@GGGamzat">
   	<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=black&style=for-the-badge"/>
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=GGGamzat&style=flat-square&color=blue"/>
