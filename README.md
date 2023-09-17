@@ -4,9 +4,9 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="t.me/@gamzat">
+  <a href="https://web.telegram.org/k/#@gamzat">
   	<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=black&style=for-the-badge"/>
-  </a>
+  </a><br>
   <img src="https://komarev.com/ghpvc/?username=GGGamzat&style=flat-square&color=blue"/>
 </div>
 
