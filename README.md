@@ -9,28 +9,3 @@
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=GGGamzat&style=flat-square&color=blue"/>
 </div>
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="40" height="40">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" width="40" height="40">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40">
-</div>
